@@ -6,6 +6,8 @@ Code is placed in the public domain.
 - [@mrshareware](https://www.github.com/mrshareware)
 
 ## Acknowledgements
+This was my first Python program. I started by searching for "simple python text adventure" and researched Python coding styles. Mixed in some of my own spice and heated until you could taste some old fashioned text adventure goodness. Enjoy!
+
 [Thonny](https://thonny.org/)
 A great IDE for Python beginners.
 
