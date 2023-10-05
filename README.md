@@ -2,6 +2,14 @@
 In this beginner's text adventure game you'll embark on an old-time journey, navigating the treacherous Mojave Desert, gathering essential supplies to find water and conquer the caverns, and ultimately making your way to the ghost town of Mojave Springs. 
 Code is placed in the public domain. 
 
+## Features
+- Python Beginner's Text Adventure
+- Set in the U.S. Southwest
+- Three regions of play - desert, caverns (based on real location), town
+- Basic word parser
+- Simple puzzles to solve
+- Easy-to-modify code placed in public domain
+
 ## Authors
 - [@mrshareware](https://www.github.com/mrshareware) Ed S
 
@@ -27,9 +35,9 @@ The Unlicense.
 
 ## Notes and Stuff You Can Do
 
-Mojave Springs Adventure is not intended to be a full-blown adventure game. I wrote it in about 40 hours (design, code) to get an understanding of Python.
+Mojave Springs Adventure was not intended to be a full-blown adventure game. I wrote it in about 40 hours (design, code) to get an understanding of Python.
 Certainly, the game play can be enhanced and the code improved. That's where you come in. Learn from it, tear it apart, fix my coding faux pas, do with it whatever.
-If you want to, let me know that you made a change. I'd like to see where you took the game.
+If you mod it, I'd like to see where you take the game.
 
 Here are some ideas while still keeping this a terminal app:
 - Move room and object descriptions to a file or database
