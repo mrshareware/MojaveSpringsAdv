@@ -1,5 +1,5 @@
 # Mojave Springs Adventure
-In this beginner's text adventure game, you'll embark on an old-time journey, navigating the treacherous Mojave Desert, gathering essential supplies to find water and conquer the caverns, and ultimately making your way to the ghost town of Mojave Springs. 
+In this beginner's text adventure game you'll embark on an old-time journey, navigating the treacherous Mojave Desert, gathering essential supplies to find water and conquer the caverns, and ultimately making your way to the ghost town of Mojave Springs. 
 Code is placed in the public domain. 
 
 ## Authors
@@ -39,4 +39,5 @@ Here are some ideas while still keeping this a terminal app:
 - Add a combat system so you can fight the snake or NPCs
 - Add a scoring system
 - Translate to other languages, Spanish and German :)
-- Have fun
+
+Have fun
